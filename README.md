@@ -3,19 +3,20 @@
 
 [![Linkedin: waseim-nagah-05b923198](https://img.shields.io/badge/-waseimnagah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waseim-nagah-05b923198/)](https://www.linkedin.com/in/waseim-nagah-05b923198/)
 &nbsp;
-[![GitHub John0Isaac](https://img.shields.io/github/followers/John0Isaac?label=follow&style=social)](https://github.com/John0Isaac)
-[![Facebook: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/John0Isaac/)](https://www.facebook.com/John0Isaac/)
+[![GitHub waseemnagah](https://img.shields.io/github/followers/waseemnagah?label=follow&style=social)](https://github.com/waseemnagah)
+[![Facebook: waseimnagah](https://img.shields.io/badge/-waseimnagah-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/waseimnagah/)](https://www.facebook.com/waseimnagah/)
 
 
-A Passionate Full Stack Developer ⚡ and a Computer Engineering Undergrad in Modern Academy for Engineering 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, Machine Learning,  DevOps, Open Source 📜, Innovation and Automation 🤖
+My name is Waseim Nagah. I'm a 23-year-old computer engineering student at the Modern Academy for Engineering and Technology. I have strong skills in Python, C++, and machine learning. With a solid academic background and relevant coursework, I have developed my expertise in artificial intelligence, digital image processing, and software engineering. I'm committed to continuous learning, as evidenced by my certifications in machine learning and deep learning. I possess a solid understanding of data analysis, data visualization, and database management. With my passion for advancing technology, I am passionate about coding and continuously expanding my knowledge.
+
 
 ## A little More about me :
 
 <!-- - 🔭 &nbsp; I’m currently working on my [Youtube Channel](https://www.youtube.com/channel/UCC4vwxeLB7id80azkciD8DQ?view_as=public) -->
-- 🌱 &nbsp; I’m currently learning **Machine Learning & Neural Networks** 
-- 👯 &nbsp; I’m looking to collaborate on Web Dev Projects 
+- 🌱 &nbsp; I’m currently learning **Machine Learning & Data analysis** 
+- 👯 &nbsp; I’m looking to collaborate on Data analysis, Machine learning Projects 
 - 💬 &nbsp; Ask me about anything I'm happy to help 
-- 📫 &nbsp; How to reach me **johnaziz269@gmail.com**
+- 📫 &nbsp; How to reach me **[email removed]**
 
 ## 💡 Languages & Frameworks:
 
