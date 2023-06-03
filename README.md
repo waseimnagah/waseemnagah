@@ -1,7 +1,7 @@
-## Hi, I'm John Aziz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hi, I'm waseim nagah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Twitter: John00Isaac](https://img.shields.io/twitter/follow/John00Isaac?style=social)](https://twitter.com/John00Isaac)
-[![Linkedin: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/John0Isaac/)](https://www.linkedin.com/in/John0Isaac/)
+
+[![Linkedin: waseim-nagah-05b923198](https://img.shields.io/badge/-waseimnagah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waseim-nagah-05b923198/)](https://www.linkedin.com/in/waseim-nagah-05b923198/)
 &nbsp;
 [![GitHub John0Isaac](https://img.shields.io/github/followers/John0Isaac?label=follow&style=social)](https://github.com/John0Isaac)
 [![Facebook: John0Isaac](https://img.shields.io/badge/-John0Isaac-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/John0Isaac/)](https://www.facebook.com/John0Isaac/)
