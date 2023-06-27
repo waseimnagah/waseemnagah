@@ -7,7 +7,7 @@
 [![Facebook: waseimnagah](https://img.shields.io/badge/-waseimnagah-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/waseimnagah/)](https://www.facebook.com/waseimnagah/)
 
 
-My name is Waseim Nagah. I'm a 23-year-old computer engineering student at the Modern Academy for Engineering and Technology. I have strong skills in Python, C++, and machine learning. With a solid academic background and relevant coursework, I have developed my expertise in artificial intelligence, digital image processing, and software engineering. I'm committed to continuous learning, as evidenced by my certifications in machine learning and deep learning. I possess a solid understanding of data analysis, data visualization, and database management. With my passion for advancing technology, I am passionate about coding and continuously expanding my knowledge.
+My name is Waseim Nagah, and I am a fresh graduate with a Bachelor's degree in Computer Engineering. I recently completed my studies at the Modern Academy for Engineering and Technology. I have strong skills in Python, C++, and machine learning. With a solid academic background and relevant coursework, I have developed my expertise in artificial intelligence, digital image processing, and software engineering. I'm committed to continuous learning, as evidenced by my machine learning and deep learning certifications. I possess a solid understanding of data analysis, data visualization, and database management. With my passion for advancing technology, I am passionate about coding and continuously expanding my knowledge.
 
 
 ## A little More about me :
