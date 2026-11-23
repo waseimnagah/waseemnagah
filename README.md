@@ -26,7 +26,7 @@ Computer Engineering graduate (Modern Academy for Engineering and Technology) wo
 
 ## Skills
 
-**Languages:** Python · C++ · SQL / T-SQL · JavaScript (vanilla) · HTML / CSS · PowerShell · VBScript · Windows batch · Arduino C++
+**Languages:** Python · C++ · SQL / T-SQL · JavaScript (vanilla) · HTML / CSS · PowerShell · VBScript · Arduino C++
 
 **Machine learning & computer vision:** CNN image classification · transfer learning (MobileNetV2) · TensorFlow · Keras · scikit-learn · OpenCV · Pillow · NumPy · pandas · Matplotlib · Seaborn · Plotly · Jupyter
 
@@ -34,7 +34,7 @@ Computer Engineering graduate (Modern Academy for Engineering and Technology) wo
 
 **Databases:** SQLite (migrations, backup and restore) · MySQL / MariaDB · SQL Server (T-SQL) · ER and relational modelling
 
-**Windows deployment & automation:** offline installers and USB updates (batch, PowerShell, VBScript) · client packaging · software licensing and offline activation · XAMPP stack (Apache, PHP, MariaDB): set up a multi-PC ChurchCRM system on a local network with a PowerShell installer, firewall rules and safe start/stop launchers · Windows 7 to 11 compatibility · background monitoring scripts
+**Windows deployment & automation:** offline installers and USB updates (PowerShell, VBScript) · client packaging · software licensing and offline activation · XAMPP stack (Apache, PHP, MariaDB): set up a multi-PC ChurchCRM system on a local network with a PowerShell installer, firewall rules and safe start/stop launchers · Windows 7 to 11 compatibility · background monitoring scripts
 
 **Testing & quality:** pytest · GitHub Actions CI · ruff · input validation and secret-scanning checks · Git and GitHub
 
@@ -42,7 +42,7 @@ Computer Engineering graduate (Modern Academy for Engineering and Technology) wo
 
 **AI-assisted development:** Claude Code (project skills, CLAUDE.md rules, hooks) · OpenCode · Antigravity · Cursor · Gemini · MCP servers and agent skills (reviewing third-party skills before use) · spec-driven development · agent and prompt design · OmniRoute LLM gateway
 
-**Tools:** VS Code · Cursor · Jupyter · Anaconda · PyCharm · MySQL Workbench · SQL Server Management Studio · Arduino IDE · draw.io
+**Tools:** VS Code · Cursor · Jupyter · PyCharm · MySQL Workbench · SQL Server Management Studio
 
 ## Learning
 
