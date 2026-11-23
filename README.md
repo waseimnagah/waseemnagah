@@ -9,6 +9,7 @@ Computer Engineering graduate (Modern Academy for Engineering and Technology) wo
 
 - Image classification with CNNs and transfer learning on medical images (CT, MRI, skin photos)
 - Small Flask web apps that serve a trained TensorFlow/Keras model
+- An offline ERP for laying-hen farms (Python, SQLite, vanilla JavaScript) that runs on the customer's own Windows PC, with no internet needed
 - Exploratory data analysis and visualisation
 - Databases and SQL
 
@@ -23,19 +24,30 @@ Computer Engineering graduate (Modern Academy for Engineering and Technology) wo
 | [Garment multi-class classifier](https://github.com/waseemnagah/Garment-Multi-Class-MobileNetV2-with-86-acc) | MobileNetV2 transfer learning, ~86% accuracy | Python, TensorFlow/Keras, Jupyter |
 | [EDA for lung cancer](https://github.com/waseemnagah/EDA-to-lung-cancer) | Exploratory data analysis notebook | Python, Jupyter |
 
-## Tech
+## Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/-HTML%20%2F%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages:** Python · C++ · SQL / T-SQL · JavaScript (vanilla) · HTML / CSS · PowerShell · VBScript · Windows batch · Arduino C++
+
+**Machine learning & computer vision:** CNN image classification · transfer learning (MobileNetV2) · TensorFlow · Keras · scikit-learn · OpenCV · Pillow · NumPy · pandas · Matplotlib · Seaborn · Plotly · Jupyter
+
+**Web & backend:** Flask · JSON APIs · dependency-free Python backends (standard library only) · login, sessions and role-based permissions · audit logging · Arabic (RTL) and English interfaces · dark mode · phone-friendly layouts
+
+**Databases:** SQLite (migrations, backup and restore) · MySQL / MariaDB · SQL Server (T-SQL) · ER and relational modelling
+
+**Windows deployment & automation:** offline installers and USB updates (batch, PowerShell, VBScript) · client packaging · software licensing and offline activation · XAMPP stack (Apache, PHP, MariaDB): set up a multi-PC ChurchCRM system on a local network with a PowerShell installer, firewall rules and safe start/stop launchers · Windows 7 to 11 compatibility · background monitoring scripts
+
+**Testing & quality:** pytest · GitHub Actions CI · ruff · input validation and secret-scanning checks · Git and GitHub
+
+**Embedded:** Arduino: Bluetooth-controlled servo and motor driver, ultrasonic sensor
+
+**AI-assisted development:** Claude Code (project skills, CLAUDE.md rules, hooks) · OpenCode · Antigravity · Cursor · Gemini · MCP servers and agent skills (reviewing third-party skills before use) · spec-driven development · agent and prompt design · OmniRoute LLM gateway
+
+**Tools:** VS Code · Cursor · Jupyter · Anaconda · PyCharm · MySQL Workbench · SQL Server Management Studio · Arduino IDE · draw.io
 
 ## Learning
 
 - Machine learning and deep learning (DeepLearning.AI TensorFlow Developer coursework)
 - Python automation (Google IT Automation with Python practice labs)
+- Retrieval-augmented generation (RAG) and multi-agent AI systems
 
 I'm open to collaborating on data analysis and machine learning projects.
