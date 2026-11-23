@@ -1,4 +1,4 @@
-# Hi, I'm Waseim Nagah 👋
+# Hi, I'm Waseim 👋
 
 Computer Engineering graduate (Modern Academy for Engineering and Technology) working on
 **deep learning for medical imaging** and practical **Python** software.
